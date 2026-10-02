@@ -5,6 +5,7 @@ console.log("Hello, World!");
 
 /** npm = node package manager 
 
+    node package manager (npm) is a package manager for JavaScript that allows developers to easily share and reuse code.
     npm is a package manager for JavaScript that allows developers to easily share and reuse code. 
     It comes bundled with Node.js and provides a command-line interface (CLI) for managing packages, dependencies, and scripts. 
     With npm, developers can install third-party libraries, manage project dependencies, and publish their own packages to the npm registry.
